@@ -1,5 +1,5 @@
 # CodSoft Internship Tasks for Python Programming
-### Task -1 ( Calculator )
+### Task -1 (Calculator)
 A working graphical calculator made using tkinter and customtkinter.It has basic functionalities and also error checks using try-except block.
 This file is named as calculator.py
 
@@ -10,3 +10,7 @@ This file is named as pass-gen.py
 ### Task -3 (Rock,paper and scissors)
 A basic rock paper scissors game.
 This file is named as rps.py
+
+### Task -4 (ToDo List)
+A working graphical To Do List manager made using tkinter and customtkinter.It has basic functionalities.
+This file is named as to-do.py
